@@ -59,7 +59,7 @@ in the real world.
 ## Planned project structure
 
 ```
-encryption-decprytion-tool/
+encryption-decryption-tool/
 ├── README.md          # this file
 ├── requirements.txt   # libraries the project needs
 ├── caesar_cipher.py   # the simple Caesar Cipher (text + files)
