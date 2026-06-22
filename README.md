@@ -145,21 +145,3 @@ Building this taught me a few important security lessons:
 - **Never store secrets in your code or upload them.** That is why this project's
   `.gitignore` file blocks `*.key` files from ever being uploaded to GitHub.
   Hard-coding passwords or keys is one of the most common security mistakes.
-
-## What I learned
-
-- How encryption and decryption actually work
-- The difference between a weak cipher and a strong one
-- How to use a real Python library to protect data
-- Why protecting and managing the secret key matters so much
-- How to organise a small project into separate files
-
-## Learning resources
-
-These are the resources I used while learning to build this project:
-
-<!-- TODO: add the actual tutorials/courses you used, for example:
-- freeCodeCamp – Python tutorial
-- Coursera – ...
-- Python "cryptography" library documentation: https://cryptography.io
--->
